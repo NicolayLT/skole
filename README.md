@@ -1,4 +1,6 @@
 # skole
 Skole greier
 
-Check 1
+Check 2
+check 3
+

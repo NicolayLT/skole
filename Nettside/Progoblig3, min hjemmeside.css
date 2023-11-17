@@ -1,0 +1,53 @@
+/* Styling for min hjemmeside */
+
+/* Header */
+h1 { 
+    text-align: left;
+    background-color: lightskyblue;
+    padding: 30px;
+    margin: 0;
+}
+
+
+/* Body */
+body {
+    background-image: url("../Skole/Bilder/Mountain.jpg");
+    background-color: rgb(204, 189, 189);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+/* Nav horizontal */
+ul{
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 280px;
+    margin: 0;
+    overflow: hidden;
+}
+
+li a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding-left: 100px;
+    text-decoration: none;
+    color: white;
+}
+
+/* Main */
+main{
+    background-color: rgb(213, 184, 224);
+    background-position: center;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 800px;
+    line-height: 50px;
+}
+

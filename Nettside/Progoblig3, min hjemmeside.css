@@ -11,8 +11,7 @@ h1 {
 
 /* Body */
 body {
-    background-image: url("../Skole/Bilder/Mountain.jpg");
-    background-color: rgb(204, 189, 189);
+    background-image: url("../skole/Bilder/white-gradient-background.jpg");
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     background-repeat: no-repeat;

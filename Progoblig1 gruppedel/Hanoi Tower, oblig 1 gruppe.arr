@@ -1,3 +1,4 @@
+use context essentials2021
 include image
 
 #Lager variabler for alle sirkelene vi bruker i koden og for de 3 pinnene. Variablen Fiks er en usynlig sirkel som brukes for å holde alt på plass, navnet Fiks kommer fra at det var en fiks på et problem vi hadde.
